@@ -1,13 +1,11 @@
-# Responsive Watches Website ⌚
-## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
-### Responsive Watches Website ⌚
+🌐 Site Web Responsive de Montres ⌚
+Site Web Responsive de Montres ⌚
+Site web de montres responsive utilisant HTML, CSS et JavaScript
 
-- Responsive Watches Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Défilement fluide entre chaque section
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+Inclut un mode clair et un mode sombre
 
-![preview img](/preview.png)
+Développé selon la méthode Mobile First, puis adapté pour les écrans de bureau
+
+Compatible avec tous les appareils mobiles, avec une interface utilisateur agréable et soignée
